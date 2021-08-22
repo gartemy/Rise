@@ -1,4 +1,3 @@
-// Burger Menu script
 $(document).ready(function () {
   // Mobile Menu animation (open)
   $('.navbar-toggler').on('click', function () {
